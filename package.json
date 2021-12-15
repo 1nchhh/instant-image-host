@@ -18,7 +18,7 @@
   "description": "instant image host",
   "dependencies": {
     "@discordjs/opus": "^0.5.0",
-    "@sentry/node": "^6.3.5",
+    "@sentry/node": "^6.15.0",
     "@sentry/tracing": "^6.3.5",
     "atob": "^2.1.2",
     "aws-sdk": "^2.907.0",
