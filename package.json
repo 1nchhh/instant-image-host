@@ -41,7 +41,7 @@
     "get-port": "^5.1.1",
     "get-video-dimensions": "^1.0.0",
     "glob": "^7.1.7",
-    "handbrake-js": "^5.0.2",
+    "handbrake-js": "^6.0.0",
     "helmet": "^4.6.0",
     "html-template-loader": "^1.2.0",
     "image-size": "^1.0.0",
