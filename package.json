@@ -21,7 +21,7 @@
     "@sentry/node": "^6.3.5",
     "@sentry/tracing": "^6.3.5",
     "atob": "^2.1.2",
-    "aws-sdk": "^2.907.0",
+    "aws-sdk": "^2.1035.0",
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
     "btoa": "^1.2.1",
