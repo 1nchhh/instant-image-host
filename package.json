@@ -61,7 +61,7 @@
     "randomstring": "^1.1.5",
     "s3": "^4.4.0",
     "sha256": "^0.2.0",
-    "simple-git": "^2.38.0",
+    "simple-git": "^3.5.0",
     "socket.io": "^4.1.1",
     "uuid": "^8.3.2",
     "validate-color": "^2.1.1",
